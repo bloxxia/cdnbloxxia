@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/DeployHistory.txt",
+      "destination": "https://raw.githubusercontent.com/bloxxiastudio/setup/refs/heads/main/DeployHistory.txt"
+    }
+  ]
+}
